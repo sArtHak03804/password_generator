@@ -10,6 +10,8 @@
 ![Code Size](https://img.shields.io/github/languages/code-size/sArtHak03804/password_generator)
 ![GitHub Stars](https://img.shields.io/github/stars/sArtHak03804/password_generator)
 
+---
+[Live Preview](https://raw.githack.com/sArtHak03804/password_generator/main/index.html).
 
 
 
